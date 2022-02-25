@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "57e3a72a2865e39529628e09d2127c30539f8f9e1457e92b1fa7b32c05ea3c0f"
+build_start_time: [1645825811, 622045993]
+build_end_time: [1645825812, 565886020]
+inputs:
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/AFIError.swift": [1645817515, 246772766]
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/Image.swift": [1645817515, 246921300]
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/ImageCache.swift": [1645817515, 246497154]
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/ImageDownloader.swift": [1645817515, 247201919]
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/ImageFilter.swift": [1645817515, 247594833]
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1645817515, 247472286]
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1645817515, 247057199]
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1645817515, 246641635]
+  "/Users/aishani/Desktop/FlixApp/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1645817515, 247335672]

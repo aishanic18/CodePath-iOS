@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "23a80df9513ef8fc9b725b39c498f8ba26537be476d976ad1b568a1f67ede5d6"
+build_start_time: [1645825094, 192011833]
+build_end_time: [1645825096, 382172107]
+inputs:
+  "/Users/aishani/Desktop/FlixApp/FlixTests/FlixTests.swift": !dirty [1645811288, 565405845]

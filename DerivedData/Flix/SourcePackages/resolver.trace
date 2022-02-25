@@ -1,0 +1,9 @@
+derived: https://github.com/Alamofire/AlamofireImage
+resolving: https://github.com/Alamofire/AlamofireImage
+resolved: https://github.com/Alamofire/AlamofireImage @ 4.2.0
+derived: https://github.com/Alamofire/Alamofire.git
+resolving: https://github.com/Alamofire/Alamofire.git
+resolved: https://github.com/Alamofire/Alamofire.git @ 5.5.0
+solved:
+alamofire[https://github.com/Alamofire/Alamofire.git] 5.5.0
+alamofireimage[https://github.com/Alamofire/AlamofireImage] 4.2.0

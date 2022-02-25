@@ -1,0 +1,88 @@
+Target dependency graph (31 targets)
+Alamofire in Pods, no dependencies
+AlamofireImage in Pods, depends on:
+Alamofire in Pods (explicit)
+Pods-Flix in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+AlamofireImage in AlamofireImage, depends on:
+Alamofire in Alamofire (explicit)
+AlamofireImage in AlamofireImage, depends on:
+AlamofireImage in AlamofireImage (explicit)
+Alamofire in Alamofire (explicit)
+Flix in Flix, depends on:
+Pods-Flix in Pods (implicit dependency via file 'Pods_Flix.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in AlamofireImage (explicit)
+Alamofire in Pods, no dependencies
+AlamofireImage in Pods, depends on:
+Alamofire in Pods (explicit)
+Pods-Flix in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+AlamofireImage in AlamofireImage, depends on:
+Alamofire in Alamofire (explicit)
+AlamofireImage in AlamofireImage, depends on:
+AlamofireImage in AlamofireImage (explicit)
+Alamofire in Alamofire (explicit)
+Flix in Flix, depends on:
+Pods-Flix in Pods (implicit dependency via file 'Pods_Flix.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in AlamofireImage (explicit)
+Pods-FlixTests in Pods, depends on:
+Pods-Flix in Pods (explicit)
+FlixTests in Flix, depends on:
+Flix in Flix (explicit)
+Pods-FlixTests in Pods (implicit dependency via file 'Pods_FlixTests.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+Pods-FlixTests in Pods, depends on:
+Pods-Flix in Pods (explicit)
+FlixTests in Flix, depends on:
+Flix in Flix (explicit)
+Pods-FlixTests in Pods (implicit dependency via file 'Pods_FlixTests.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+Alamofire in Pods, no dependencies
+AlamofireImage in Pods, depends on:
+Alamofire in Pods (explicit)
+Pods-Flix in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+Pods-FlixTests in Pods, depends on:
+Pods-Flix in Pods (explicit)
+FlixTests in Flix, depends on:
+Pods-FlixTests in Pods (implicit dependency via file 'Pods_FlixTests.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+Pods-Flix-FlixUITests in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+FlixUITests in Flix, depends on:
+Flix in Flix (explicit)
+Pods-Flix-FlixUITests in Pods (implicit dependency via file 'Pods_Flix_FlixUITests.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+Pods-Flix-FlixUITests in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+FlixUITests in Flix, depends on:
+Flix in Flix (explicit)
+Pods-Flix-FlixUITests in Pods (implicit dependency via file 'Pods_Flix_FlixUITests.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+Pods-Flix-FlixUITests in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+FlixUITests in Flix, depends on:
+Pods-Flix-FlixUITests in Pods (implicit dependency via file 'Pods_Flix_FlixUITests.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')

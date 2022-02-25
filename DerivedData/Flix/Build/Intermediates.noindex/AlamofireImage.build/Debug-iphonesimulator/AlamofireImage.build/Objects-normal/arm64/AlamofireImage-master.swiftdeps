@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "b07546b060c78559241b03cd04cf40674e385e3cf665bc27d4cd946527a46f42"
+build_start_time: [1645825811, 477034091]
+build_end_time: [1645825813, 519402027]
+inputs:
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/AFIError.swift": [1645825020, 829406976]
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/Image.swift": [1645825020, 829580068]
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/ImageCache.swift": [1645825020, 829656839]
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/ImageDownloader.swift": [1645825020, 829774856]
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/ImageFilter.swift": [1645825020, 829893589]
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/Request+AlamofireImage.swift": [1645825020, 830057621]
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1645825020, 830210685]
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1645825020, 830365180]
+  "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/SourcePackages/checkouts/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1645825020, 830479145]

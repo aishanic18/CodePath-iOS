@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "ff3ca3e0336790d870d1da2648197e9a895cf008615e4297839deb289cd66a62"
+build_start_time: [1645825091, 224630832]
+build_end_time: [1645825093, 976752996]
+inputs:
+  "/Users/aishani/Desktop/FlixApp/Flix/AppDelegate.swift": [1645811285, 760148525]
+  "/Users/aishani/Desktop/FlixApp/Flix/MovieCell.swift": [1645814676, 80240488]
+  "/Users/aishani/Desktop/FlixApp/Flix/SceneDelegate.swift": [1645811285, 761660575]
+  "/Users/aishani/Desktop/FlixApp/Flix/ViewController.swift": [1645819068, 804837226]

@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "aafe910801dbeb068bf4890e31866e3e1e3392afd3e7b9a4e0a0acd4e8b6ff4f"
+    },
+    {
+      "guid" : "aafe910801dbeb068bf4890e31866e3ec6a2982a80651986756bfbefa3cb9c58"
+    },
+    {
+      "guid" : "aafe910801dbeb068bf4890e31866e3ed42e6c19775072c48b213fda22f173e5"
+    }
+  ],
+  "containerPath" : "/Users/aishani/Desktop/FlixApp/Flix.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/Index/Build/Products",
+      "derivedDataPath" : "/Users/aishani/Desktop/FlixApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

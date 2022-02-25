@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/aishani/Desktop/FlixApp/DerivedData/Flix/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/AlamofireImage.build/unextended-module.modulemap",
+    }]
+  }]
+}
